@@ -1,0 +1,75 @@
+.test{
+    background-color: #301e55;
+    color: white;
+    
+
+}
+.testi{
+    text-align: center;
+    font-weight: 400;
+    padding-bottom: 10px;
+    font-size: 40px;
+    padding-top: 10px;
+}
+.text{
+    text-align: center;
+
+}
+.contactus{
+    text-align: center;
+    align-items: center;
+    color: #b6adc9;
+    padding-top: 10px;
+    font-size: 35px;
+}
+.input{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+.type{
+    width: 85%;
+
+}
+.message{
+    width: 85%;
+    height: 200px;
+}
+.sub{
+    padding-top: 15px;
+}
+.mit{
+    width: 25%;
+    height: 50px;
+    background-color: chocolate;
+    color: white;
+}
+.mit:hover{
+    opacity: .5;
+    color: black;
+}
+.ort{
+    text-align: center;
+    font-size: 15px;
+}
+.follow{
+    display: flex;
+    gap: 5px;
+    padding-left: 10px;
+}
+.pmg{
+    width: 20%;
+}
+footer{
+    padding-top: 10px;
+
+}
+.senza{
+    background-color: #282b2e;
+    height: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
